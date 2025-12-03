@@ -1,0 +1,7 @@
+{
+  "name": "HACCP Pro for Chinese Cuisine",
+  "description": "Professional HACCP management system for Chinese restaurants. Features daily hygiene checks, staff health recording, customizable checklists, and Excel data export/import.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
